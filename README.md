@@ -35,7 +35,7 @@ El resultado de este análisis servirá como base para futuros modelos predictiv
 TelecomX-Churn-Analysis/
 │
 ├── TelecomX_Data.json
-├── TelecomX_ETL_Churn.ipynb
+├── Challenge_Telecom_I.ipynb
 ├── README.md
 
 
@@ -125,6 +125,6 @@ Estas visualizaciones permiten identificar tendencias y posibles factores asocia
 ## Opción 1 — Google Colab
 
 1. Abrir Google Colab
-2. Subir el archivo `TelecomX_ETL_Churn.ipynb`
+2. Subir el archivo `Challenge_Telecom_I.ipynb`
 3. Subir el archivo `TelecomX_Data.json`
 4. Ejecutar todas las celdas del notebook
